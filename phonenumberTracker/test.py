@@ -1,1 +1,1 @@
-number = "+xx xxxxxxxxxx"
+number = "+xx xxxxxxxxxx"             #enter phone number with code
